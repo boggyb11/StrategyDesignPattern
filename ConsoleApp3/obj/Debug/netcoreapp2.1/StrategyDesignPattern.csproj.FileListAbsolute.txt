@@ -1,0 +1,10 @@
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\StrategyDesignPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\StrategyDesignPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\StrategyDesignPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\StrategyDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\StrategyDesignPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\StrategyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\StrategyDesignPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\StrategyDesignPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\StrategyDesignPattern.pdb
